@@ -1,7 +1,7 @@
 # 68kComment
 Automates the indentation of comments in 68000 assembly.
 
-##Usage
+## Usage
 Comment.bat will open all ASM files in the current folder and subfolders, and adjust their comments to column 64.
 
 ```
